@@ -1,0 +1,1 @@
+This is an example for restful ajax/jason example with jersey 2.4
